@@ -17,4 +17,3 @@ test("You can add attributes to the model via $data", function() {
   equal(person.get('firstName'), "Tom");
   equal(person.get('lastName'), "Dale");
 });
-
